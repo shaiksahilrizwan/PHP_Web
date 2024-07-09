@@ -23,7 +23,7 @@
      
     if(isset($_POST["login"])){
         $conn=mysqli_connect("localhost","root","","pass") or die("<br>"."Connection Failure");
-            $id=$_POST['id'];
+            $id=htmlspecialchars($_POST['id']);
             $pass=sha1($_POST['pass']);
             $sql="SELECT * FROM STUDENT WHERE PASSCODE='{$pass}' AND SID='{$id}'";
             $result=mysqli_query($conn,$sql) or die("Fatal Error Occured!!");               
