@@ -6,10 +6,7 @@ BlogPost_CMS is a PHP-based Blog News site designed to provide a platform for cr
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Features
 
