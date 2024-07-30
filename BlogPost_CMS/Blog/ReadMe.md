@@ -29,6 +29,7 @@ BlogPost_CMS is a PHP-based Blog News site designed to provide a platform for cr
 2. **Setup Database**
 
 Import the database.sql file located in the database directory into your MySQL database.
+<br>
 3. **Run the Application**
 
 Start your local server (e.g., XAMPP, WAMP) and navigate to the project directory in your web browser.
@@ -37,6 +38,7 @@ Usage
 Admin Panel
 
 Access the admin panel via http://localhost/BlogPost_CMS/admin.
+<br>
 4. **Contributing**
 We welcome contributions! Please follow these steps to contribute:
 
@@ -55,5 +57,6 @@ bash
 Copy code
 git push origin feature/your-feature-name
 Open a pull request.
+<br>
 5. **Contact**
 Sahil Rizwan: shaiksahilrizwan@gmail.com
