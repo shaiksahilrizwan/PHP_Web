@@ -1,2 +1,2 @@
 you need Apache and MySql server running in a Xampp control panel.
-<h1>Access: localhost/BlogPost_CMS/Admin</h1>
+Access: localhost/BlogPost_CMS/Admin
